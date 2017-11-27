@@ -22,3 +22,4 @@ then # Ping server to see if it is ready
 else # Initialization still in progress
   exit 1
 fi
+
